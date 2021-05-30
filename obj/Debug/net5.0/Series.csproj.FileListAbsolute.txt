@@ -1,0 +1,16 @@
+C:\Users\hp\OneDrive\Documents\LSUA\Internet Application Programming\Series\bin\Debug\net5.0\Series.exe
+C:\Users\hp\OneDrive\Documents\LSUA\Internet Application Programming\Series\bin\Debug\net5.0\Series.deps.json
+C:\Users\hp\OneDrive\Documents\LSUA\Internet Application Programming\Series\bin\Debug\net5.0\Series.runtimeconfig.json
+C:\Users\hp\OneDrive\Documents\LSUA\Internet Application Programming\Series\bin\Debug\net5.0\Series.runtimeconfig.dev.json
+C:\Users\hp\OneDrive\Documents\LSUA\Internet Application Programming\Series\bin\Debug\net5.0\Series.dll
+C:\Users\hp\OneDrive\Documents\LSUA\Internet Application Programming\Series\bin\Debug\net5.0\ref\Series.dll
+C:\Users\hp\OneDrive\Documents\LSUA\Internet Application Programming\Series\bin\Debug\net5.0\Series.pdb
+C:\Users\hp\OneDrive\Documents\LSUA\Internet Application Programming\Series\obj\Debug\net5.0\Series.csprojAssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\LSUA\Internet Application Programming\Series\obj\Debug\net5.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Documents\LSUA\Internet Application Programming\Series\obj\Debug\net5.0\Series.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Documents\LSUA\Internet Application Programming\Series\obj\Debug\net5.0\Series.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Documents\LSUA\Internet Application Programming\Series\obj\Debug\net5.0\Series.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\LSUA\Internet Application Programming\Series\obj\Debug\net5.0\Series.dll
+C:\Users\hp\OneDrive\Documents\LSUA\Internet Application Programming\Series\obj\Debug\net5.0\ref\Series.dll
+C:\Users\hp\OneDrive\Documents\LSUA\Internet Application Programming\Series\obj\Debug\net5.0\Series.pdb
+C:\Users\hp\OneDrive\Documents\LSUA\Internet Application Programming\Series\obj\Debug\net5.0\Series.genruntimeconfig.cache
